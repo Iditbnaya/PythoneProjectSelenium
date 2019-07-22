@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/../Lesson2/Lesson4-web.py" description="#button_element.click()" line="55" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ce1788-dc10-4adb-b805-39a38af38fd1" name="Default Changelist" comment="" />
+    <list default="true" id="d1ce1788-dc10-4adb-b805-39a38af38fd1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Buyme_Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Buyme_Project.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Buyme_Project.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+            <state relative-caret-position="183">
+              <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
               <folding>
                 <element signature="e#22#33#0" expanded="true" />
               </folding>
@@ -98,7 +101,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.Buyme_Project">
-    <configuration name="Buyme_Project" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Buyme_Project" type="PythonConfigurationType" factoryName="Python">
       <module name="PythoneProjectIditbnaya" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,7 +166,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Buyme_Project" />
         <item itemvalue="Python.Buyme_Project21062019" />
         <item itemvalue="Python.Buyme_Project1906" />
       </list>
@@ -184,6 +186,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="697" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24305004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -258,8 +261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Buyme_Project.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+        <state relative-caret-position="183">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
           <folding>
             <element signature="e#22#33#0" expanded="true" />
           </folding>

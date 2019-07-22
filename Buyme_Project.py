@@ -6,9 +6,8 @@ from selenium.webdriver.common.keys import Keys
 my_file = open("c:/temp/buyme.txt", 'r', encoding='utf-8')
 # # Call Chrome Driver
 #
-driver = webdriver.Chrome(executable_path="C:\\Users\\Idit\\PycharmProjects\\pythoneProjectIditbnaya\\chromedriver.exe")
-#
-#
+driver = webdriver.Chrome(executable_path="C:\\Users\\Idit\\PycharmProjects\\pythoneProjectIditbnaya\\chromedriver.exe")#
+
 # # open Buyme Website using a file
 string = my_file.readline()
 print(string)
@@ -117,6 +116,7 @@ driver.find_element_by_xpath("//*[@id='ember1169']/div[5]/button").click()
 
 
 ####End Of Project  :) :) ####
+########
 
 
 
